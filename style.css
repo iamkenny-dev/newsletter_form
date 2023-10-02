@@ -1,5 +1,12 @@
 
-body { display: flex; align-items: center; justify-content: center; min height: 100vh; }
+body { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: [Roboto](https://fonts.google.com/specimen/Roboto);
+    font-weight: 700;
+}
 
 .icon {
     display: flex;
@@ -14,7 +21,7 @@ body { display: flex; align-items: center; justify-content: center; min height: 
     display: flex;
     flex-direction: row;
     background-color:rgb(243, 239, 235);
-    padding: 2% 2% 2% 5%;
+    padding: 1.5% 1.5% 1.5% 5%;
     border-radius: 3%;
 }
 
@@ -23,8 +30,9 @@ body { display: flex; align-items: center; justify-content: center; min height: 
 }
 
 .left-container > h1 {
-    text-align: center;
-    font-weight: bold;
+    /* text-align: center; */
+    /* font-weight: bold; */
+    font-size: 50px;
 }
 
 .right-container {
@@ -46,7 +54,7 @@ button {
 } */
 
 .icon-bottom {
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 input {
