@@ -19,6 +19,11 @@ body { display: flex; align-items: center; justify-content: center; min height: 
     width: 50%;
 }
 
+.left-container > h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
 .right-container {
     width: 50%;
 }
