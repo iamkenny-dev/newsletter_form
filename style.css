@@ -37,8 +37,10 @@ button {
     border-radius: 10px;
     border: none;
     background-color: hsl(4, 100%, 67%);
+    width: 90%;
 }
 
 input {
-    padding: ;
+    padding: 4%;
+    width: 80%;
 }
