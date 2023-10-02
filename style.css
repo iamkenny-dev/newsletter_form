@@ -30,3 +30,10 @@ body { display: flex; align-items: center; justify-content: center; min height: 
 .right-container {
     width: 50%;
 }
+
+button {
+    margin-top: 50px;
+    padding: 4%;
+    border-radius: 15px;
+    background-color: hsl(4, 100%, 67%);
+}
