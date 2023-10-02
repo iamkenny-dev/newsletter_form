@@ -40,6 +40,11 @@ button {
     width: 90%;
 }
 
+label {
+    margin-top: 50px;
+    line-height: 10px;
+}
+
 input {
     padding: 4%;
     margin-top: 10%;
