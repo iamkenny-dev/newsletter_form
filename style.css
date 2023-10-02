@@ -40,14 +40,18 @@ button {
     width: 90%;
 }
 
-label {
-    margin-top: 50px;
+/* .label {
+    margin-top: 10%;
     line-height: 10px;
+} */
+
+.icon-bottom {
+    margin-bottom: 60px;
 }
 
 input {
     padding: 4%;
-    margin-top: 10%;
+    margin-top: 2%;
     width: 80%;
     border-radius: 10px;
 }
