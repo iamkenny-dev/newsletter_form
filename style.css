@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: row;
     background-color:rgb(243, 239, 235);
-    padding: 1.5% 1.5% 1.5% 5%;
+    padding: 10px 10px 10px 60px;
     border-radius: 3%;
 }
 
@@ -37,6 +37,10 @@ body {
 
 .right-container {
     width: 50%;
+}
+
+.right-container > img {
+    max-width: 100%;
 }
 
 button {
