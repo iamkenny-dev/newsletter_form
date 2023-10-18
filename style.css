@@ -5,7 +5,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-family: [Roboto](https://fonts.google.com/specimen/Roboto);
-    font-weight: 700;
+    /* font-weight: 700; */
 }
 
 .icon {
